@@ -1,0 +1,25 @@
+table { border-collapse: collapse; }
+td {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    border: 10px dotted #fff; /* Cercle amb punts blancs */
+    background-color: #000; /* Fons negre o pot ser un altre color */
+    display: inline-block;
+    margin: 10px;
+    color: white;
+    font-size: 2rem;
+    text-align: center ;
+    vertical-align: middle;
+}
+.buid {
+    background-color: white; /* Color blanc per cercles buits */
+    border-color: #000; /* Puntes negres per millor visibilitat */
+}
+
+.red { background-color: red; }
+.yellow { background-color: yellow; }
+.blue { background-color: blue; }
+.green { background-color: green; }
+.purple { background-color: purple; }
+.orange { background-color: orange; }
